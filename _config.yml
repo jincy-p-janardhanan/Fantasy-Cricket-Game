@@ -1,1 +1,14 @@
 theme: jekyll-theme-merlot
+title: Fantasy Cricket Game
+description: Prize winning final project of Internshala Trainings The Python Challenge!
+avatar: https://drive.google.com/file/d/1qzHihwuJAkYzE37NxmvpwrnP17bZ8ELw/view?usp=sharing
+round-avatar: false
+social-network-links:
+  facebook: https://www.facebook.com/jincy.p.janardhanan
+  github: https://github.com/Jincy17
+  linkedin: https://www.linkedin.com/in/jincy-p-janardhanan
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+page-img: https://drive.google.com/file/d/1WOOuv5dtRrGsMpOvK5oBG9r6KuhHsEqg/view?usp=sharing
