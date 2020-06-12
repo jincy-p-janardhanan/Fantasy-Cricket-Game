@@ -5,6 +5,6 @@ Please use this only as a guideline for your project. You may take inspiration f
 
 GitHub repository for this project: https://github.com/Jincy17/Fantasy-Cricket-Game
 
-Find me on GitHub: https://github.com/Jincy17
+Find me on GitHub: https://github.com/jincy-p-janardhanan
 
 Find me on LinkedIn: https://www.linkedin.com/in/jincy-p-janardhanan/
