@@ -3,7 +3,9 @@ This is a fantasy Cricket Game. It was built as part of Internshala Programming 
 
 Please use this only as a guideline for your project. You may take inspiration from this project but PLEASE DON'T UPLOAD THE SAME FOR YOUR FINAL PROJECT IN INTERNSHALA PYTHON TRAININGS. YOUR FINAL PROJECT MUST BE ENTIRELY YOUR OWN ORIGINAL WORK.
 
-GitHub repository for this project: https://github.com/Jincy17/Fantasy-Cricket-Game
+![Fantasy Cricket Game](https://drive.google.com/file/d/1qzHihwuJAkYzE37NxmvpwrnP17bZ8ELw/view?usp=sharing)
+
+GitHub repository for this project: https://github.com/jincy-p-janardhanan/Fantasy-Cricket-Game
 
 Find me on GitHub: https://github.com/jincy-p-janardhanan
 
